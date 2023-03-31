@@ -137,6 +137,10 @@ or please select `drive` from `switch branches/tags`
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/openjourney_v4_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/openjourney_v4_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/openjourney_v4_webui_colab.ipynb) | openjourney_v4_webui_colab  <br /> [prompthero/openjourney-v4](https://huggingface.co/prompthero/openjourney-v4)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/dosmix_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/dosmix_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/dosmix_webui_colab.ipynb) | dosmix_webui_colab <br /> [DiaryOfSta/dosmix](https://civitai.com/models/6250/dosmix)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/meina_mix_v8_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/meina_mix_v8_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/meina_mix_v8_webui_colab.ipynb) | meina_mix_v8_webui_colab  <br /> [Meina/meinamix](https://civitai.com/models/7240/meinamix)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rev_animated_v1_1_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rev_animated_v1_1_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rev_animated_v1_1_webui_colab.ipynb) | rev_animated_v1_1_webui_colab  <br /> (Thanks to Koneko❁ུ۪۪♡ for the suggestion ❤) <br /> [s6yx/rev-animated](https://civitai.com/models/7371/rev-animated)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rmada_merge_v5_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rmada_merge_v5_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rmada_merge_v5_webui_colab.ipynb) | rmada_merge_v5_webui_colab  <br /> [rMada/rmada-merge-sd-21-768](https://civitai.com/models/15303/rmada-merge-sd-21-768)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rmadart_v5_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rmadart_v5_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rmadart_v5_webui_colab.ipynb) | rmadart_v5_webui_colab  <br /> [rMada/rmadart-sd15](https://civitai.com/models/18208/rmadart-sd15)
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/realistic_vision_v20_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/realistic_vision_v20_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/realistic_vision_v20_webui_colab.ipynb) | realistic_vision_v20_webui_colab  <br /> [SG_161222/realistic-vision-v20](https://civitai.com/models/4201/realistic-vision-v20)
 
 ## 🦒 Special Colab
 | lite | stable | nightly | Info - Token - Model Page
@@ -183,6 +187,8 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
 [https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
 [https://github.com/KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) (Thanks to @KohakuBlueleaf ❤) <br />
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) (Thanks to @AUTOMATIC1111 ❤) <br />
+[https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
 
 ## Stable & Nightly Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
@@ -200,9 +206,22 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
 [https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
 [https://github.com/KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) (Thanks to @KohakuBlueleaf ❤) <br />
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) (Thanks to @AUTOMATIC1111 ❤) <br />
+[https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
+
+## Installed Loras
+[https://civitai.com/models/13941/epinoiseoffset](https://civitai.com/models/13941/epinoiseoffset) (Thanks to epinikion ❤) <br />
+
+## Installed Embeds
+[https://huggingface.co/Xynon/models](https://huggingface.co/Xynon/models) (Thanks to Xynon ❤) <br />
+[https://huggingface.co/datasets/Nerfgun3/bad_prompt](https://huggingface.co/datasets/Nerfgun3/bad_prompt) (Thanks to Nerfgun3 ❤) <br />
+[https://huggingface.co/yesyeahvh/bad-hands-5](https://huggingface.co/yesyeahvh/bad-hands-5) (Thanks to yesyeahvh ❤) <br />
+[https://huggingface.co/datasets/gsdf/EasyNegative](https://huggingface.co/datasets/gsdf/EasyNegative) (Thanks to gsdf ❤) <br />
+[https://civitai.com/models/4629/deep-negative-v1x](https://civitai.com/models/4629/deep-negative-v1x) (Thanks to FapMagi ❤) <br />
+[https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
 
 ## Special Thanks
 Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified) <br />
@@ -212,6 +231,7 @@ Thanks to @machiavel23 ❤ (community colab) <br />
 Thanks to @etherealxx ❤ (community colab) <br />
 Thanks to @nocrypt ❤ (community colab) <br />
 Thanks to @AIrabbit0 ❤ (community colab) <br />
+Thanks to @ark5mith ❤ (community colab) <br />
 Thanks to 7743 ❤ (community colab) <br />
 Thanks to @Hareshkumar77 ❤ (community colab) <br />
 Thanks to Hollowstrawberry ❤ (community colab) <br />
